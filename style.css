@@ -1,0 +1,32 @@
+body {
+    color:rgb(202, 145, 255);
+    background-image: url('https://seliganerd.com/wp-content/uploads/3d7pVcqoPyU4XanyBxNwpRuhBVC.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 3px;
+    }
+    header{
+        color:#9839d8;
+        border: solid 10px #9e24bd;
+        padding: 10px;
+        font-size: 32px;
+        color:hwb(278 43% 12%);
+    }
+
+    section {
+padding-top: 50px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+}
+
+
+ .categoria-videos img{
+    height: 220px;
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+}
